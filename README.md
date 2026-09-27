@@ -4,6 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/ftn-cyber/DELTA-exucutor-SCRIPT-ROBLOX/main/img/1790486309907.png" alt="Delta Executor Script Banner" width="600"/>
 
+
+<img src="https://camo.githubusercontent.com/e36213a395c2482ef182bcbce90143b8213e49aefa0761e9681cc96d38e05ffc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465" alt="Delta Executor Script Banner" width="600"/>
+
 </div>
 
 **Delta Executor Script** adalah repositori yang mengumpulkan dan menyebarkan script untuk game **ROBLOX**. Script-script di sini dirancang untuk digunakan bersama Delta Executor guna memudahkan pengalaman bermain, mulai dari fitur tambahan hingga fungsi *cheater* di berbagai game ROBLOX populer.
